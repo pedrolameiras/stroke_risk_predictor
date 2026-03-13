@@ -1,2 +1,3 @@
 [theme]
 base = "light"
+# obrigar a página a abrir em "lightmode" para não dar erro no menu
